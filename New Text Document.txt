@@ -1,0 +1,1 @@
+//*[@id="the-artwork__inset"]/figure/div[2]/ul/li[2]/a
